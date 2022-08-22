@@ -1,10 +1,5 @@
-# Rep1_PrograSIG
-Es el primer repositorio para el curso de programación en SIG
+#Mi primer intento de pág web escrbiendo desde Github
 
+Enlace al sitio web de la Universidad de Costa Rica
 
-
-Sexta línea
-
-
-ejecutando otra prueba
-
+[Sitio web de la UCR](https://www.ucr.ac.cr/actividades/2022/8/)
