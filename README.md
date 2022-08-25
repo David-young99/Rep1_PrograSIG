@@ -44,6 +44,11 @@ Se pone un paréntesis cuadrado para colocar el texto que se va a mostrar y los 
 Este es un ejemplo de poner una imagen que viene desde la web, ojo, se pone como el título de la imagen y luego el link de la misma
 ![Chirripó](https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/EI365XKZFZA5RGRD65R6APJJBM.JPG)
 
-Este es un ejemplo de como hacerlo pero subiendo la imagen al github
+Este es un ejemplo de como hacerlo pero subiendo la imagen al github, si se meten las imágenes a una carpeta se debe poner la carpeta y el slash y luego el nomnbre de la imagen
 ![Chirripó](
 chirri.JPG)
+
+
+Para cambiar el tamaño de las imágenes pero con html, se debe de escribir tal cual sea la sintáxis de html
+
+<img src="chirri.JPG" width="400" height="250">
