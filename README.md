@@ -11,8 +11,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 **Texto en negrita**
 
-__Texto itálico_
+*Texto itálico*
 
 Otras formas de combinar la **negrita** en markdown
 
-__Combinando tipos de **texto** en markdown__
+*Combinando tipos de **texto** en markdown*
+
+> "*Para colocar citas se hace así (recordar revisar el código para comprobar la sintáxis)*"
