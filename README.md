@@ -19,3 +19,17 @@ Otras formas de combinar la **negrita** en markdown
 
 > "*Para colocar citas se hace así (recordar revisar el código para comprobar la sintáxis)*"
 >> "Se puede anidar también"
+
+
+**Listas enumeradas en Markdown** Simplemente se ponen los números y ya .-.
+1. Primer item
+2. Segundo item 
+3. Tercer Item
+    1. Uno anidado del 3 xd
+
+
+**Listas no enumeradas en markdown** simplemente con un menos
+- Primer
+- Segundo
+- tercero
+    - Para anidar 
