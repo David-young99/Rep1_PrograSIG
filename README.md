@@ -41,5 +41,5 @@ Se pone un paréntesis cuadrado para colocar el texto que se va a mostrar y los 
 [Sitio web de la OIM](https://costarica.iom.int/es)
 
 **Colocar imágenes en markdown**
-
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+Este es un ejemplo de poner una imagen que viene desde la web, ojo, se pone como el título de la imagen y luego el link de la misma
+![Chirripó](https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/EI365XKZFZA5RGRD65R6APJJBM.JPG)
