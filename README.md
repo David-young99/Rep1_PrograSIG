@@ -43,3 +43,6 @@ Se pone un paréntesis cuadrado para colocar el texto que se va a mostrar y los 
 **Colocar imágenes en markdown**
 Este es un ejemplo de poner una imagen que viene desde la web, ojo, se pone como el título de la imagen y luego el link de la misma
 ![Chirripó](https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/EI365XKZFZA5RGRD65R6APJJBM.JPG)
+
+Este es un ejemplo de como hacerlo pero subiendo la imagen al github
+![Chirripó]()
