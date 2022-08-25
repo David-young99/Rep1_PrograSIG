@@ -1,4 +1,4 @@
 # Prueba de la sintáxis básica de Markdown
 
-Heading level 1
-===============
+Forma alternativa de poner títulos
+------------
