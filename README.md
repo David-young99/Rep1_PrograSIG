@@ -39,3 +39,7 @@ Otras formas de combinar la **negrita** en markdown
 Se pone un paréntesis cuadrado para colocar el texto que se va a mostrar y los redondos va el link
 
 [Sitio web de la OIM](https://costarica.iom.int/es)
+
+**Colocar imágenes en markdown**
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
