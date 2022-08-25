@@ -18,3 +18,4 @@ Otras formas de combinar la **negrita** en markdown
 *Combinando tipos de **texto** en markdown*
 
 > "*Para colocar citas se hace así (recordar revisar el código para comprobar la sintáxis)*"
+>> "Se puede anidar también"
