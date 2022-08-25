@@ -45,4 +45,5 @@ Este es un ejemplo de poner una imagen que viene desde la web, ojo, se pone como
 ![Chirripó](https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/EI365XKZFZA5RGRD65R6APJJBM.JPG)
 
 Este es un ejemplo de como hacerlo pero subiendo la imagen al github
-![Chirripó]()
+![Chirripó](
+chirri.JPG)
